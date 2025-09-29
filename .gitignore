@@ -1,1 +1,3 @@
 .git/*
+.venv
+car_fuel_efficiency.csv
